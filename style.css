@@ -1,0 +1,13 @@
+h1 {
+    color: purple;
+  }
+  
+  h2 {
+    color: orange;
+  }
+  
+  img {
+    display: block;
+    margin-left: 100px;
+  /*   margin-right: auto; */
+  }
